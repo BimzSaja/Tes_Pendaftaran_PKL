@@ -1,0 +1,1 @@
+alter table pendaftaran rename column id_pendaftaran to nis;
